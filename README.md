@@ -19,4 +19,4 @@ If you are using Linux -
 If you are using Windows - 
   Paste the path of installed Driver in the code in line 14 like this
   
-  driver = webdriver.Chrome(<Your path>)
+  driver = webdriver.Chrome("Your Path")
